@@ -36,7 +36,7 @@ Please follow the directions from README file.
 
 # Questions
 
-Need to contact[jung0808?](https://github.com/jung0808)
+Need to contact [jung0808?](https://github.com/jung0808)
 [You can contact me here - Email](mailto:j.nam0808@gmail.com)
 
 # Screenshot of Project
